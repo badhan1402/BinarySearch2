@@ -1,4 +1,4 @@
-# Binary_search_2
+# BinarySearch2
 
  Modify the Binary Search function from  Binary_search_1 so that if the value cannot be found, it will return the index of the closest number smaller than the value.<br>
  Sample Input:<br>
